@@ -5,7 +5,7 @@
   position: relative;
   width: 90%;
   margin: 0 auto;
-  padding: 0 auto;
+  padding: 0;
 }
 
 .menu ul {
@@ -23,7 +23,6 @@
 
 .menu ul li a:hover {
   background-color: #4b88bb;
-  display: block;
 }
 
 .jarak {
