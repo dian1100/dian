@@ -35,14 +35,12 @@
   text-decoration:none;
 }
 
-.btn{
-  padding:8px 12px;
+.footer{
+  width:90%;
+  margin:auto;
+  height:40px;
+  line-height:40px;
   background:#417aa8;
   color:#fff;
-  border:none;
-  cursor:pointer;
-}
-
-.btn:hover{
-  background:#4b88bb;
+  margin-bottom:1pc;
 }
